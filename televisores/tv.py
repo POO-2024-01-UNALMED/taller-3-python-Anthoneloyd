@@ -41,9 +41,9 @@ class TV:
     def setControl(self, control):
         self._control = control
 
-    def getNumTV(TV):
+    def getNumTV():
         return TV._numTV
-    def setNumTV(TV, numTV):
+    def setNumTV(numTV):
         TV._numTV = numTV
 
     def getEstado(self):
